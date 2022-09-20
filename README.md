@@ -1,5 +1,5 @@
 # minikube_aws_ec2_install
-install minikube on aws ec2
+install minikube on aws ec2 - refrence taken from internet
 
 ### Installing kubectl
 ### Run these commands as root
